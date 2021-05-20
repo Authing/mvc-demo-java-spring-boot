@@ -25,3 +25,7 @@ client.setRedirectUri("http://localhost:8080/callback"); // 填写之前设置�
 # 参考文档
 
 待填坑
+
+# License
+
+mvc-demo-java-spring is MIT licensed
