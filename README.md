@@ -24,7 +24,7 @@ client.setRedirectUri("http://localhost:8080/callback"); // 填写之前设置�
 
 # 参考文档
 
-待填坑
+[Java Spring Boot 快速开始文档](https://docs.authing.cn/v2/quickstarts/webApp/javaSpringBoot.html)
 
 # License
 
