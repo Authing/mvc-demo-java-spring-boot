@@ -28,4 +28,4 @@ client.setRedirectUri("http://localhost:8080/callback"); // 填写之前设置�
 
 # License
 
-mvc-demo-java-spring is MIT licensed
+mvc-demo-java-spring is [MIT licensed](https://github.com/Authing/mvc-demo-java-spring-boot/blob/master/LICENSE)
